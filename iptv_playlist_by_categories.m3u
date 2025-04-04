@@ -1,5 +1,5 @@
 
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/index.xml"
+#EXTM3U
 
 ########## MBC ##########
 #EXTINF:-1 tvg-logo="https://github.com/tangymc/mbcchannels/raw/main/logos/tvchannels/mbc1.png", MBC 1
@@ -54,7 +54,7 @@ https://wataniya1.streamlink.to/live/Wataniya1/index.m3u8
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@123456/index_1_av-b.m3u8
 
 ########## Sport ##########
-#EXTM3U
+
 #EXTINF:-1,US: beIN Sport 1 HD
 http://iptv-line.com:7899/live/thomasdj19821/vODCWh1y/49291.m3u8
 #EXTINF:-1,US: beIN Sport 2 HD
