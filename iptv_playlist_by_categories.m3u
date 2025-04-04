@@ -1,0 +1,21 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/index.xml"
+
+########## SPORTS ##########
+#EXTINF:-1 tvg-id="sport" tvg-name="Sports Channels" group-title="Sports"
+https://iptv-org.github.io/iptv/categories/sport.m3u
+
+########## KIDS ##########
+#EXTINF:-1 tvg-id="kids" tvg-name="Children's Channels" group-title="Kids"
+https://iptv-org.github.io/iptv/categories/kids.m3u
+
+########## ARABIC ##########
+#EXTINF:-1 tvg-id="arabic" tvg-name="Arabic Channels" group-title="Arabic"
+https://iptv-org.github.io/iptv/languages/ara.m3u
+
+########## MBC ##########
+#EXTINF:-1 tvg-id="mbc" tvg-name="MBC Channels" group-title="MBC"
+https://iptv-org.github.io/iptv/groups/mbc.m3u
+
+########## SHAHID ##########
+#EXTINF:-1 tvg-id="shahid" tvg-name="Shahid Channels" group-title="Shahid"
+https://iptv-org.github.io/iptv/groups/shahid.m3u
